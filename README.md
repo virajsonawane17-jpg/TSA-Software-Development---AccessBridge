@@ -98,19 +98,19 @@ This template includes:
 
 ## Troubleshooting
 
-### **App not loading on device?**
+### **App not loading on device**
 
 Make sure your phone and computer are on the same WiFi network
-Try using tunnel mode: `bun start -- --tunnel`
+Try using tunnel mode `bun start -- --tunnel`
 Check if your firewall is blocking the connection
 
-### **Build failing?**
+### **Build failing**
 
-Clear your cache: `bunx expo start --clear`
-Delete `node_modules` and reinstall: `rm -rf node_modules && bun install`
+Clear your cache `bunx expo start --clear`
+Delete `node_modules` and reinstall `rm -rf node_modules && bun install`
 Check [Expo's troubleshooting guide](https://docs.expo.dev/troubleshooting/build-errors/)
 
 ### **Need help with native features?**
 
-- Check [Expo's documentation](https://docs.expo.dev/) for native APIs
-- Browse [React Native's documentation](https://reactnative.dev/docs/getting-started) for core components
+Check [Expo's documentation](https://docs.expo.dev/) for native APIs
+ Browse [React Native's documentation](https://reactnative.dev/docs/getting-started) for core components
