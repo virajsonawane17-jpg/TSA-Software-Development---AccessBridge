@@ -18,13 +18,13 @@ The home screen serves as your command center, providing:
 
 Transform printed text into spoken words instantly.
 
-**How it works:**
+How it works:
 1. Point your camera at any printed document
 2. The app captures and analyzes the text
 3. AI enhances readability and converts to speech
 4. Listen to the content read aloud in natural voice
 
-**Perfect for:**
+Perfect for:
 - Reading mail and documents
 - Reviewing restaurant menus
 - Accessing books and magazines
@@ -34,13 +34,13 @@ Transform printed text into spoken words instantly.
 
 Get intelligent descriptions of what's around you.
 
-**How it works:**
+How it works:
 1. Activate the camera to scan your surroundings
 2. AI analyzes the visual scene
 3. Receive detailed audio descriptions
 4. Save important descriptions for later reference
 
-**Perfect for:**
+Perfect for:
 - Identifying objects in your environment
 - Reading street signs and labels
 - Navigating unfamiliar spaces
@@ -50,13 +50,13 @@ Get intelligent descriptions of what's around you.
 
 Know what's in front of you without touching.
 
-**How it works:**
+How it works:
 1. Point camera at objects or areas
 2. Real-time AI identifies items
 3. Audio feedback describes what it sees
 4. Adjustable sensitivity for different environments
 
-**Perfect for:**
+Perfect for:
 - Finding household items
 - Identifying food products
 - Locating personal belongings
@@ -66,13 +66,13 @@ Know what's in front of you without touching.
 
 Your personal navigation companion for safe movement.
 
-**How it works:**
+How it works:
 1. Camera scans your path ahead
 2. AI provides directional guidance
 3. Audio alerts for hazards and obstacles
 4. Turn-by-turn navigation assistance
 
-**Perfect for:**
+Perfect for:
 - Walking in unfamiliar areas
 - Avoiding obstacles and hazards
 - Finding specific locations
@@ -82,13 +82,13 @@ Your personal navigation companion for safe movement.
 
 Your intelligent conversation partner for everyday questions.
 
-**How it works:**
+How it works:
 1. Speak your questions naturally
 2. AI processes both voice and visual context
 3. Get helpful, conversational responses
 4. Save important conversations
 
-**Perfect for:**
+Perfect for:
 - Getting instant help with tasks
 - Asking questions about your surroundings
 - Receiving contextual assistance
