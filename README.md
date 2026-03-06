@@ -15,9 +15,9 @@ Prerequisites
 Getting Started
 
 1. **Install dependencies**:
-   ```bash
+  bash
    bun install
-   ```
+  
 
 2. **Start development server**:
    ```bash
