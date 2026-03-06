@@ -88,27 +88,27 @@ eas hosting:deploy
 
 This template includes:
 
-- **Cross-platform compatibility** - Works on iOS, Android, and Web
-- **File-based routing** with Expo Router
-- **Tab navigation** with customizable tabs
-- **Modal screens** for overlays and dialogs
-- **TypeScript support** for better development experience
-- **Async storage** for local data persistence
-- **Vector icons** with Lucide React Native
+ **Cross-platform compatibility** - Works on iOS, Android, and Web
+ **File-based routing** with Expo Router
+ **Tab navigation** with customizable tabs
+**Modal screens** for overlays and dialogs
+ **TypeScript support** for better development experience
+ **Async storage** for local data persistence
+ **Vector icons** with Lucide React Native
 
 ## Troubleshooting
 
 ### **App not loading on device?**
 
-1. Make sure your phone and computer are on the same WiFi network
-2. Try using tunnel mode: `bun start -- --tunnel`
-3. Check if your firewall is blocking the connection
+Make sure your phone and computer are on the same WiFi network
+Try using tunnel mode: `bun start -- --tunnel`
+Check if your firewall is blocking the connection
 
 ### **Build failing?**
 
-1. Clear your cache: `bunx expo start --clear`
-2. Delete `node_modules` and reinstall: `rm -rf node_modules && bun install`
-3. Check [Expo's troubleshooting guide](https://docs.expo.dev/troubleshooting/build-errors/)
+Clear your cache: `bunx expo start --clear`
+Delete `node_modules` and reinstall: `rm -rf node_modules && bun install`
+Check [Expo's troubleshooting guide](https://docs.expo.dev/troubleshooting/build-errors/)
 
 ### **Need help with native features?**
 
