@@ -1,18 +1,18 @@
-# AccessBridge - Accessibility Assistant App
+AccessBridge - Accessibility Assistant App
 
-## Project Overview
+Project Overview
 
 This is a cross-platform mobile accessibility application built with React Native and Expo.
 
-**Platform**: Native iOS & Android app, exportable to web
-**Framework**: Expo Router + React Native
+Platform**: Native iOS & Android app, exportable to web
+Framework**: Expo Router + React Native
 
-## Development Setup
+ Development Setup
 
-### Prerequisites
+Prerequisites
 - Node.js & Bun installed
 
-### Getting Started
+Getting Started
 
 1. **Install dependencies**:
    ```bash
