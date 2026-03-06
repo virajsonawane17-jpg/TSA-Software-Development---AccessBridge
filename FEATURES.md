@@ -9,10 +9,10 @@ AccessBridge is a comprehensive accessibility assistant designed to help visuall
 ### Home Dashboard
 
 The home screen serves as your command center, providing:
-- Personalized greetings that change based on time of day
-- Quick access to all main features
-- Usage statistics showing your interaction patterns
-- Session tracking to monitor app usage over time
+Personalized greetings that change based on time of day
+Quick access to all main features
+Usage statistics showing your interaction patterns
+Session tracking to monitor app usage over time
 
 ### Document Reader
 
@@ -25,10 +25,10 @@ How it works:
 4. Listen to the content read aloud in natural voice
 
 Perfect for:
-- Reading mail and documents
-- Reviewing restaurant menus
-- Accessing books and magazines
-- Reviewing shopping labels
+Reading mail and documents
+Reviewing restaurant menus
+Accessing books and magazines
+Reviewing shopping labels
 
 ### Screen Reader
 
@@ -41,10 +41,10 @@ How it works:
 4. Save important descriptions for later reference
 
 Perfect for:
-- Identifying objects in your environment
-- Reading street signs and labels
-- Navigating unfamiliar spaces
-- Understanding visual contexts
+Identifying objects in your environment
+Reading street signs and labels
+Navigating unfamiliar spaces
+Understanding visual contexts
 
 ### Object Detection
 
@@ -57,10 +57,10 @@ How it works:
 4. Adjustable sensitivity for different environments
 
 Perfect for:
-- Finding household items
-- Identifying food products
-- Locating personal belongings
-- Avoiding obstacles
+Finding household items
+Identifying food products
+Locating personal belongings
+Avoiding obstacles
 
 ### Mobility Assistant
 
@@ -73,10 +73,10 @@ How it works:
 4. Turn-by-turn navigation assistance
 
 Perfect for:
-- Walking in unfamiliar areas
-- Avoiding obstacles and hazards
-- Finding specific locations
-- Safe navigation in crowds
+Walking in unfamiliar areas
+Avoiding obstacles and hazards
+Finding specific locations
+Safe navigation in crowds
 
 ### AI Guide
 
@@ -89,83 +89,83 @@ How it works:
 4. Save important conversations
 
 Perfect for:
-- Getting instant help with tasks
-- Asking questions about your surroundings
-- Receiving contextual assistance
-- Having a helpful companion
+Getting instant help with tasks
+Asking questions about your surroundings
+Receiving contextual assistance
+Having a helpful companion
 
 ## Accessibility Features
 
 ### Customizable Visual Settings
 
-- Font sizes: Normal, Large, Extra Large
-- Contrast modes: Standard, High Contrast
-- Color schemes: Optimized for different vision needs
-- Interface scaling: Adjust UI elements for comfort
+Font sizes: Normal, Large, Extra Large
+Contrast modes: Standard, High Contrast
+Color schemes: Optimized for different vision needs
+Interface scaling: Adjust UI elements for comfort
 
 ### Audio Preferences
 
-- Speech rates: Slow, Normal, Fast
-- Voice types: Multiple natural-sounding options
-- Volume controls: Fine-tuned audio levels
-- Audio feedback: Toggle haptic and sound cues
+Speech rates: Slow, Normal, Fast
+Voice types: Multiple natural-sounding options
+Volume controls: Fine-tuned audio levels
+Audio feedback: Toggle haptic and sound cues
 
 ### Interface Adaptations
 
-- Voice commands: Navigate hands-free
-- Gesture controls: Intuitive touch interactions
-- Screen reader compatibility: Works with system accessibility tools
-- High contrast UI: Enhanced visibility options
+Voice commands: Navigate hands-free
+Gesture controls: Intuitive touch interactions
+Screen reader compatibility: Works with system accessibility tools
+High contrast UI: Enhanced visibility options
 
 ## Technical Features
 
 ### Camera Integration
 
-- Real-time processing: Instant visual analysis
-- Multiple cameras: Front and rear camera support
-- Image optimization: Enhanced capture for AI analysis
-- Privacy protection: Local processing when possible
+Real-time processing: Instant visual analysis
+Multiple cameras: Front and rear camera support
+Image optimization: Enhanced capture for AI analysis
+Privacy protection: Local processing when possible
 
 ### Speech Capabilities
 
-- Voice recognition: Accurate speech-to-text
-- Natural speech synthesis: Human-like audio output
-- Multi-language support: Various language options
-- Noise cancellation: Clear audio in noisy environments
+Voice recognition: Accurate speech-to-text
+Natural speech synthesis: Human-like audio output
+Multi-language support: Various language options
+Noise cancellation: Clear audio in noisy environments
 
 ### Data Management
 
-- Local storage: Offline capability for essential features
-- Cloud sync: Backup preferences and history
-- Privacy focused: User data protection
-- History tracking: Review past interactions
+Local storage: Offline capability for essential features
+Cloud sync: Backup preferences and history
+Privacy focused: User data protection
+History tracking: Review past interactions
 
 ## User Profiles
 
 ### Personalization
 
 Create multiple user profiles for:
-- Individual settings: Custom accessibility preferences
-- Voice profiles: Personalized speech recognition
-- Usage patterns: Learning user behavior
-- Emergency contacts: Quick access to help
+Individual settings: Custom accessibility preferences
+Voice profiles: Personalized speech recognition
+Usage patterns: Learning user behavior
+Emergency contacts: Quick access to help
 
 ### Usage Analytics
 
 Track your app usage with:
-- Session duration: Monitor time spent in each feature
-- Feature frequency: See which tools you use most
-- Progress tracking: Improvement over time
-- Usage insights: Understand your patterns
+Session duration: Monitor time spent in each feature
+Feature frequency: See which tools you use most
+Progress tracking: Improvement over time
+Usage insights: Understand your patterns
 
 ## Emergency Features
 
 ### Quick Assistance
 
-- Emergency contacts: One-tap access to help
-- Location sharing: Share your position when needed
-- SOS alerts: Immediate assistance requests
-- Safety protocols: Built-in emergency procedures
+Emergency contacts: One-tap access to help
+Location sharing: Share your position when needed
+SOS alerts: Immediate assistance requests
+Safety protocols: Built-in emergency procedures
 
 ## Getting Started
 
@@ -177,18 +177,18 @@ Track your app usage with:
 
 ## Tips for Best Experience
 
-- Use in well-lit areas for better camera performance
-- Speak clearly for accurate voice recognition
-- Customize settings to match your specific needs
-- Practice regularly to become comfortable with features
-- Keep the app updated for latest improvements
+Use in well-lit areas for better camera performance
+Speak clearly for accurate voice recognition
+Customize settings to match your specific needs
+Practice regularly to become comfortable with features
+Keep the app updated for latest improvements
 
 ## Support & Help
 
-- In-app tutorial: Interactive feature guide
-- Voice help: Ask the AI guide for assistance
-- User community: Connect with other users
-- Technical support: Get help when needed
+In-app tutorial: Interactive feature guide
+Voice help: Ask the AI guide for assistance
+User community: Connect with other users
+Technical support: Get help when needed
 
 ---
 
