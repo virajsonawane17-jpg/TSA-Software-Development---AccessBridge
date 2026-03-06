@@ -14,37 +14,37 @@ Prerequisites
 
 Getting Started
 
-1. **Install dependencies**:
+1. Install dependencies:
   bash
    bun install
   
 
-2. **Start development server**:
+2. start development server:
    ```bash
    bun start
    ```
 
-3. **Web development**:
+3. Web development:
    ```bash
    bun start --web
    ```
 
 ## Technology Stack
 
-- **React Native** - Cross-platform mobile development framework
-- **Expo** - Development platform and tools
-- **Expo Router** - File-based routing system
-- **TypeScript** - Type-safe JavaScript
-- **React Query** - Server state management
-- **Lucide React Native** - Icon library
+- React Native - Cross-platform mobile development framework
+- Expo - Development platform and tools
+- Expo Router - File-based routing system
+- TypeScript - Type-safe JavaScript
+- React Query - Server state management
+- Lucide React Native - Icon library
 
 ## Testing
 
 ### Mobile Testing
 
-**iOS**: Download from App Store or use Expo Go
-**Android**: Download from Google Play
-**Web**: Run `bun start --web` for browser testing
+iOS: Download from App Store or use Expo Go
+Android: Download from Google Play
+Web: Run `bun start --web` for browser testing
 
 ## Deployment
 
@@ -88,29 +88,29 @@ eas hosting:deploy
 
 This template includes:
 
- **Cross-platform compatibility** - Works on iOS, Android, and Web
- **File-based routing** with Expo Router
- **Tab navigation** with customizable tabs
-**Modal screens** for overlays and dialogs
- **TypeScript support** for better development experience
- **Async storage** for local data persistence
- **Vector icons** with Lucide React Native
+ Cross-platform compatibility - Works on iOS, Android, and Web
+ File-based routing with Expo Router
+ Tab navigation with customizable tabs
+Modal screens for overlays and dialogs
+ TypeScript support for better development experience
+ Async storage for local data persistence
+ Vector icons with Lucide React Native
 
 ## Troubleshooting
 
-### **App not loading on device**
+### App not loading on device
 
 Make sure your phone and computer are on the same WiFi network
 Try using tunnel mode `bun start -- --tunnel`
 Check if your firewall is blocking the connection
 
-### **Build failing**
+### Build failing
 
 Clear your cache `bunx expo start --clear`
 Delete `node_modules` and reinstall `rm -rf node_modules && bun install`
 Check [Expo's troubleshooting guide](https://docs.expo.dev/troubleshooting/build-errors/)
 
-### **Need help with native features?**
+### Need help with native features?
 
 Check [Expo's documentation](https://docs.expo.dev/) for native APIs
  Browse [React Native's documentation](https://reactnative.dev/docs/getting-started) for core components
