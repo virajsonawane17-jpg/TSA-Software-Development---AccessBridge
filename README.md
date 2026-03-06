@@ -29,7 +29,7 @@ Getting Started
    bun start --web
    ```
 
-## Technology Stack
+ Technology Stack
 
 - React Native - Cross-platform mobile development framework
 - Expo - Development platform and tools
@@ -38,17 +38,17 @@ Getting Started
 - React Query - Server state management
 - Lucide React Native - Icon library
 
-## Testing
+Testing
 
-### Mobile Testing
+Mobile Testing
 
 iOS: Download from App Store or use Expo Go
 Android: Download from Google Play
 Web: Run `bun start --web` for browser testing
 
-## Deployment
+Deployment
 
-### App Store (iOS)
+ App Store (iOS)
 1. Install EAS CLI:
    ```bash
    bun i -g @expo/eas-cli
@@ -61,19 +61,19 @@ Web: Run `bun start --web` for browser testing
    eas submit --platform ios
    ```
 
-### Google Play (Android)
+Google Play (Android)
 ```bash
 eas build --platform android
 eas submit --platform android
 ```
 
-### Web Deployment
+Web Deployment
 ```bash
 eas build --platform web
 eas hosting:deploy
 ```
 
-## Project Structure
+Project Structure
 
 ```
 ├── app/                    # App screens
@@ -84,7 +84,7 @@ eas hosting:deploy
 └── assets/                 # Static assets
 ```
 
-## App Features
+ App Features
 
 This template includes:
 
@@ -96,21 +96,21 @@ Modal screens for overlays and dialogs
  Async storage for local data persistence
  Vector icons with Lucide React Native
 
-## Troubleshooting
+ Troubleshooting
 
-### App not loading on device
+ App not loading on device
 
 Make sure your phone and computer are on the same WiFi network
 Try using tunnel mode `bun start -- --tunnel`
 Check if your firewall is blocking the connection
 
-### Build failing
+Build failing
 
 Clear your cache `bunx expo start --clear`
 Delete `node_modules` and reinstall `rm -rf node_modules && bun install`
 Check [Expo's troubleshooting guide](https://docs.expo.dev/troubleshooting/build-errors/)
 
-### Need help with native features?
+ Need help with native features?
 
 Check [Expo's documentation](https://docs.expo.dev/) for native APIs
  Browse [React Native's documentation](https://reactnative.dev/docs/getting-started) for core components
