@@ -115,15 +115,7 @@ Check [Expo's troubleshooting guide](https://docs.expo.dev/troubleshooting/build
 Check [Expo's documentation](https://docs.expo.dev/) for native APIs
  Browse [React Native's documentation](https://reactnative.dev/docs/getting-started) for core components
 
- Development Team
-
-- Viraj Sonawane
-- Reshwant Borra
-- Abhiram Vislavath
-
-Contact
-
-- Viraj Sonawane: virajsonawane17@gmail.com
+Team 21010
 
 Hardware Used 
 -iPhone 16 Pro Max
